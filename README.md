@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @atharvgawande31
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning MERN stack
-
+- 👀 I’m interested in developement
+- 🌱 I’m currently learning Mobile App Developement with React native
 - 📫 How to reach me @atharvgawande31 on instagram
-- 😄 Pronouns: atharv
-- ⚡ Fun fact: I don't know
+- 😄 Pronouns: Atharv
+- ⚡ Fun fact: I dropped out from college😅
 - 
 
 <!---
