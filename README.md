@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atharvgawande31
+- 👋 Hi, I’m Atharv Dipak Gawande
 - 👀 I’m interested in developement
 - 🌱 I’m currently learning Mobile App Developement with React native
 - 📫 How to reach me @atharvgawande31 on instagram
